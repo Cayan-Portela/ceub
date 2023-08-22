@@ -27,6 +27,8 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 4. [Deep Learning](https://www.deeplearningbook.org/) `Goodfellow et al., 2016`
 5. [Aprendizado de Máquina: Uma Abordagem Estatística](http://www.rizbicki.ufscar.br/AME.pdf) `Izbicki & dos Santos, 2020`
 
+---
+
 **Vídeos** :tv:
 
-1.[Machine Lerning Full Course, Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)`Taught by Andrew Ng (Autumn 2018)`
+1. [Machine Lerning Full Course, Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)`Taught by Andrew Ng (Autumn 2018)`
