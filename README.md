@@ -31,4 +31,4 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 
 **Vídeos** :tv:
 
-1. [Machine Lerning Full Course, Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)`Taught by Andrew Ng (Autumn 2018)`
+1. [Machine Lerning Full Course, Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) `Taught by Andrew Ng (Autumn 2018)`
