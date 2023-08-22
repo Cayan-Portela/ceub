@@ -5,7 +5,7 @@
 Repositório destinado a consolidar parte dos materiais utilizados em disciplinas ministradas no UniCEUB.
 A lista de materiais de apoio (abaixo) está em constante atualização. Sugestões são sempre bem-vindas!
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)(./CONTRIBUTING.md)
 
 **Materiais externos** :books:
 
