@@ -1,9 +1,11 @@
 
 <!-- omit in toc -->
 # UniCEUB
-Repositório destinado a consolidar parte dos materiais utilizados em disciplinas ministradas no UniCEUB.
 
-**Materiais externos**
+Repositório destinado a consolidar parte dos materiais utilizados em disciplinas ministradas no UniCEUB.
+A lista de materiais externos está em constante atualização. Sugestões são sempre bem-vindas!
+
+**Materiais externos** :books:
 
 - [Calculo](#calculo)
 - [Álgebra Linear](#álgebra-linear)
