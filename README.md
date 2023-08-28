@@ -12,6 +12,7 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 - [Cálculo](#cálculo)
 - [Álgebra Linear](#álgebra-linear)
 - [Machine Learning](#machine-learning)
+- [Programação](#programação)
 
 ## Cálculo
 1. [Understanding the Gradient](https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/#:~:text=The%20gradient%20is%20a%20fancy,no%20single%20direction%20of%20increase) `Better Explained`
@@ -27,7 +28,10 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 4. [Aprendizado de Máquina: Uma Abordagem Estatística](http://www.rizbicki.ufscar.br/AME.pdf) `Izbicki & dos Santos, 2020`
 5. [An Introduction to Statistical Learning (applications in R)](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) `James et al., 2021`
 6. [An Introduction to Statistical Learning (applications in python)](https://hastie.su.domains/ISLP/ISLP_website.pdf) `James et al., 2023`
+6. [Data Science em Revista](https://repositorio.uniceub.br/jspui/handle/prefix/16691) `CEUB, 2023`
 
+## Programação
+1. [Python para Estatísticos](https://tmfilho.github.io/pyestbook/intro.html) `Telmo Menezes, 2021`
 ---
 
 **Vídeos** :tv:
