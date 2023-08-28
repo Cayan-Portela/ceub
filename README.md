@@ -31,7 +31,10 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 6. [Data Science em Revista](https://repositorio.uniceub.br/jspui/handle/prefix/16691) `CEUB, 2023`
 
 ## Programação
-1. [Python para Estatísticos](https://tmfilho.github.io/pyestbook/intro.html) `Telmo Menezes, 2021`
+1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) `Jake VanderPlas, 2016`
+2. [R for Data Science](https://r4ds.had.co.nz/) `Wickham & Grolemund, 2017`
+3. [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/) `Boehmke & Greenwell, 2019`
+4. [Python para Estatísticos](https://tmfilho.github.io/pyestbook/intro.html) `Telmo Menezes, 2021`
 ---
 
 **Vídeos** :tv:
