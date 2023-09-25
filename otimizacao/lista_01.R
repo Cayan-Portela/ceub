@@ -64,7 +64,7 @@ for (i in 1:n_iter){
 # simulacao --------------------------------------------------------------------
 k <- 10000
 x1 <- runif(k, -5, 5)
-y1 <- 3 + x1 + rnorm(k) 
+y1 <- 3 + x1 + rnorm(k)
 
 lm(y1 ~ x1)$coefficients
 

@@ -22,7 +22,7 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 1. [Linear Models in Statistics](https://rikhtehgaran.iut.ac.ir/sites/rikhtehgaran.iut.ac.ir/files/files_course/linear_models_in_statistics_2nd_ed_rencher_2008_2p_0.pdf) `Rencher & Schallje, 2008`
 
 ## Machine Learning
-1. [The Elements of Statistical Learning](https://d1wqtxts1xzle7.cloudfront.net/31156736/10.1.1.158.8831.pdf?1366444917=&response-content-disposition=inline%3B+filename%3DThe_elements_of_statistical_learning_dat.pdf&Expires=1692383392&Signature=JmWUGAuWYSCQfHkLWmee~vxsHQoMy9yDQeZMzDppVd8KdGUT2OQkMtpOXCpuT1WPMzbu5HZrPkVlwIx2IIfBmZOOi4WiiFDnllxYb7OcamQqbU07pvuoi1AT9R7sBecYMgGd~GvixC5QVMG9BMhgNJjn5rjPHKzxwY6tAn~7h9kbU3O9XsAT8o27D8waMV5aKJqBsrvbf9iDC-f0OAEu-pNa-gfC0JXkRewhEVrTeGvfSR0rSaYSSGW~W9OHldvkMQPzp0BIfPtAh1FxtvQ2ZDsAUPoJL8jv2KNqgwvg6zbho2xb9EPmt4RMnTejHPIPZ580PjZ7-DZr~tWegn6Cug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) `Trevor et al., 2009`
+1. [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) `Trevor et al., 2009`
 2. [Statistical Learning with Sparsity: the Lasso and Generalizations](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf) `Trevor et al., 2015`
 3. [Deep Learning](https://www.deeplearningbook.org/) `Goodfellow et al., 2016`
 4. [Aprendizado de Máquina: Uma Abordagem Estatística](http://www.rizbicki.ufscar.br/AME.pdf) `Izbicki & dos Santos, 2020`
