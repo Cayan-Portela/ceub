@@ -18,6 +18,7 @@ def matriz_x(colunas, dados):
 
 def calcula_p(X, B):
     return np.exp(X @ B) / (1 + np.exp(X @ B))
+    #return 1/(1+np.exp(X@B))
 
 def beta_inicial(X):
     return np.zeros(X.shape[1])
