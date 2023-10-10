@@ -25,3 +25,6 @@ def beta_inicial(X):
 
 def beta_update(X, W, y, p):
     return inv(X.T @ W  @  X) @ X.T @ (y-p)
+
+def normaliza(x):
+    return (x - np.mean(x)) / np.std(x)
