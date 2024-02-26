@@ -12,6 +12,7 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 - [Cálculo](#cálculo)
 - [Álgebra Linear](#álgebra-linear)
 - [Machine Learning](#machine-learning)
+- [Causal Inference](#causal-inference)
 - [Programação](#programação)
 
 ## Cálculo
@@ -29,6 +30,12 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 5. [An Introduction to Statistical Learning (applications in R)](https://drive.google.com/file/d/106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ/view) `James et al., 2021`
 6. [An Introduction to Statistical Learning (applications in python)](https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view) `James et al., 2023`
 6. [Data Science em Revista](https://repositorio.uniceub.br/jspui/handle/prefix/16691) `CEUB, 2023`
+
+## Causal Inference
+1. [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) `Matheus Facure, 2022`
+2. [Causal Inference: What If ](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf) `Hernán & Robins, 2024`
+3. [Causal ML Book](https://causalml-book.org/) `Chernozhukovet al., 2024`
+4. [Causal Inference: The Mixtape](https://mixtape.scunning.com/) `Cunningham, 2021`
 
 ## Programação
 1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) `Jake VanderPlas, 2016`
